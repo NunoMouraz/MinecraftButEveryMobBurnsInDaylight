@@ -1,0 +1,6 @@
+name: MinecraftButEveryMobBurnsInDaylight
+version: ${project.version}
+main: com.gmail.nunomouraxd.plugin.Main
+api-version: 1.13
+authors: [NunoMoura]
+description: Minecraft but every mob burns in daylight
